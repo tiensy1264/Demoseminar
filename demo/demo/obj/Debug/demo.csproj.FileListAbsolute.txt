@@ -1,0 +1,11 @@
+C:\Users\TienSy\Desktop\thu2\demo\demo\bin\Debug\demo.exe.config
+C:\Users\TienSy\Desktop\thu2\demo\demo\bin\Debug\demo.exe
+C:\Users\TienSy\Desktop\thu2\demo\demo\bin\Debug\demo.pdb
+C:\Users\TienSy\Desktop\thu2\demo\demo\obj\Debug\demo.csprojAssemblyReference.cache
+C:\Users\TienSy\Desktop\thu2\demo\demo\obj\Debug\demo.Form1.resources
+C:\Users\TienSy\Desktop\thu2\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\TienSy\Desktop\thu2\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+C:\Users\TienSy\Desktop\thu2\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\TienSy\Desktop\thu2\demo\demo\obj\Debug\demo.exe
+C:\Users\TienSy\Desktop\thu2\demo\demo\obj\Debug\demo.pdb
+C:\Users\TienSy\Desktop\thu2\demo\demo\obj\Debug\demo.Form2.resources
